@@ -1,0 +1,104 @@
+-- Copyright (C) 1991-2010 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=8;
+DEPTH=128;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	0    :   D8;
+	1    :   EB;
+	2    :   61;
+	3    :   20;
+	4    :   43;
+	5    :   61;
+	6    :   F8;
+	7    :   61;
+	8    :   20;
+	9    :   EF;
+	10   :   6F;
+	11   :   20;
+	12   :   F8;
+	13   :   6F;
+	14   :   63;
+	15   :   63;
+	16   :   65;
+	17   :   20;
+	18   :   E8;
+	19   :   20;
+	20   :   63;
+	21   :   6F;
+	22   :   63;
+	23   :   61;
+	24   :   EB;
+	25   :   61;
+	26   :   20;
+	27   :   63;
+	28   :   79;
+	29   :   F8;
+	30   :   6B;
+	31   :   79;
+	[32..63]  :   0;
+-----------------------Ø
+    64   :   00;
+	65   :   15;
+	66   :   15;
+	67   :   15;
+	68   :   15;
+	69   :   15;
+	70   :   15;
+	71   :   1F;
+-----------------------ø
+	72   :   00;
+	73   :   00;
+	74   :   00;
+	75   :   15;
+	76   :   15;
+	77   :   15;
+	78   :   15;
+	79   :   1F;
+-----------------------ë
+	80   :   00;
+	81   :   00;
+	82   :   00;
+	83   :   06;
+	84   :   0a;
+	85   :   0a;
+	86   :   0a;
+	87   :   12;
+-----------------------ï
+	88   :   00;
+	89   :   00;
+	90   :   00;
+	91   :   1F;
+	92   :   11;
+	93   :   11;
+	94   :   11;
+	95   :   11;
+-----------------------è
+	96   :   00;
+	97   :   00;
+	98   :   00;
+	99   :   11;
+	100  :   13;
+	101  :   15;
+	102  :   19;
+	103  :   11;
+-----------------------
+	[104..127]  :   0;
+END;
