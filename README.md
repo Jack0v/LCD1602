@@ -11,8 +11,8 @@ Project "LCDCG4" is a complete module for LCD1602 HD44780 (Latin alphabet and Ru
 
 Source video 1/2:
 
-			 2/2:
-             
+2/2:
+
 	!!!WARNING!!!
     
 	This projects was tested for EP4CE6E22C8 by QurtusII 9.1SP2.
@@ -34,8 +34,8 @@ Source video 1/2:
 
 Исходное видео 1/2:
 
-			   2/2:
-               
+2/2:
+
 	!!!ВНИМАНИЕ!!!
     
 	Эти проекты тестировались под EP4CE6E22C8 в QurtusII 9.1SP2.
