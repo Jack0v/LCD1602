@@ -9,9 +9,9 @@ Project "LCDCG"  is a complete module for LCD1602 HD44780 (Latin alphabet and Ru
 
 Project "LCDCG4" is a complete module for LCD1602 HD44780 (Latin alphabet and Russian symbols, 4-b bus).
 
-Source video 1/2:
+Source video 1/2: https://youtu.be/AxQtbRhjpYA
 
-2/2:
+2/2: Expects.
 
 	!!!WARNING!!!
     
@@ -32,9 +32,9 @@ Source video 1/2:
 
 Проект "LCDCG4" является завершённым модулем для LCD1602 HD44780 (латинский алфавит и русские символы, 4-х разрядная шина).
 
-Исходное видео 1/2:
+Исходное видео 1/2: https://youtu.be/AxQtbRhjpYA
 
-2/2:
+2/2: Ожидается.
 
 	!!!ВНИМАНИЕ!!!
     
