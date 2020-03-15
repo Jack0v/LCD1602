@@ -2,7 +2,7 @@
 Autor: Jack0v
 This project is a complete module for LCD1602 HD44780 (Latin alphabet only).
 Source video 1/2: https://youtu.be/AxQtbRhjpYA
-2/2: Expects.
+2/2: https://youtu.be/sTgquo1QI_A
 	!!!WARNING!!!
 	This project was tested for EP4CE6E22C8 by QurtusII 9.1SP2.
 	Before compiling, specify the pins of the your FPGA. Example:
@@ -12,7 +12,7 @@ Source video 1/2: https://youtu.be/AxQtbRhjpYA
 Àâòîð: Jack0v
 Ýòîò ïðîåêò ÿâëÿåòñÿ çàâåðø¸ííûì ìîäóëåì äëÿ LCD1602 HD44780 (òîëüêî ëàòèíñêèé àëôàâèò).
 Èñõîäíîå âèäåî 1/2: https://youtu.be/AxQtbRhjpYA
-2/2: Ожидается.
+2/2: https://youtu.be/sTgquo1QI_A
 	!!!ÂÍÈÌÀÍÈÅ!!!
 	Ýòîò ïðîåêò òåñòèðîâàëñÿ ïîä EP4CE6E22C8 â QurtusII 9.1SP2.
 	Ïåðåä êîìïèëÿöèåé óêàæè âûâîäû ñâîåé ÏËÈÑ. Ïðèìåð:
