@@ -22,5 +22,4 @@ Source video 1/2: https://youtu.be/AxQtbRhjpYA
 	Ïåðåä êîìïèëÿöèåé óêàæè âûâîäû ñâîåé ÏËÈÑ. Ïðèìåð:
 	//(*chip_pin = "76"*) output reg TRSQ
 
-
 (C) Jack0v, 2020
