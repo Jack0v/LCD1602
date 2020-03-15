@@ -11,7 +11,7 @@ Project "LCDCG4" is a complete module for LCD1602 HD44780 (Latin alphabet and Ru
 
 Source video 1/2: https://youtu.be/AxQtbRhjpYA
 
-2/2: Expects.
+2/2: https://youtu.be/sTgquo1QI_A
 
 	!!!WARNING!!!
     
@@ -34,7 +34,7 @@ Source video 1/2: https://youtu.be/AxQtbRhjpYA
 
 Исходное видео 1/2: https://youtu.be/AxQtbRhjpYA
 
-2/2: Ожидается.
+2/2: https://youtu.be/sTgquo1QI_A
 
 	!!!ВНИМАНИЕ!!!
     
